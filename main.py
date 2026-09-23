@@ -1,4 +1,4 @@
 def greet(name):
-    print(f"Hello, {name}! Welcome to Git practice.")
+    print(f"bye, {name}! Welcome to Git practice.")
 
-greet("Sahana")
+greet("Khiroji")
